@@ -10,3 +10,11 @@ About 40% of students have these damaging “fixed mindset” ideas. Another 40%
 - > *Accept opportunities that push you out of your comfort zone.*
 - > *You don't know what you don't know.*
 - > *Appreciate obstacles.*
+
+### some info about me :
+*Hey all ..
+my name is Qusai Tashtosh i'm 24 years old
+i graduated from Hashmite university with Software Engineering bachelor degree
+i am so excited to learning  coding and web design.*
+
+here is my Github [Link](https://github.com/QusaiTA)
