@@ -20,5 +20,5 @@ here som topic's i'll talk about ..
 
 | topics      | Links |
 | ----------- | ----------- |
-| Growth set      | [Link](read2.md)       |
-| practising markdown   | [Link](Summary.md)        |
+| Growth set      | [Link](https://replit.com/@QusaiTA/reading-notes#read2.md)       |
+| practising markdown   | [Link](https://replit.com/@QusaiTA/reading-notes#Summary.md)        |
