@@ -13,15 +13,15 @@ online forums, collaborative software, documentation pages, and readme files.*
 
 **B. if you want to get some styling to the text do the following :**
 
-use the \* sympole to make the text *italic*
+use the \* symbole to make the text *italic*
 
-use the \** sympole to make the text **bold**
+use the \** symbole to make the text **bold**
 
-use the \~~ sympole to make the text ~~strikethrough~~
+use the \~~ symbole to make the text ~~strikethrough~~
 
-use the \** _ _ ** sympole to make the  **bold_nested italic_text**
+use the \** _ _ ** symbole to make the  **bold_nested italic_text**
 
-use the \*** sympole to make the ***All bold and italic***
+use the \*** symbole to make the ***All bold and italic***
 
 
 **and there is many markdown formatting syntax such as ..**
@@ -30,7 +30,12 @@ use the \*** sympole to make the ***All bold and italic***
 > - adding links
 > - sectioning links
 > - retrival links and so on...
+> - add a list's 
+> - insert a table
 
-**for further information go to the [link](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax) and learn how to markdown.**
+
+
+
+**for farther information go to the [link](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax) and learn how to markdown.**
 
       
