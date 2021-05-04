@@ -11,7 +11,8 @@ here som topic's i'll talk about ..
 
 | topics      | Links |
 | ----------- | ----------- |
-| Growth set      | [Link](read2.md)       |
-| practising markdown   | [Link](Summary.md)        |
-| Monday read | [Link](readMonday.md)|
+| Growth Set      | [Link](read2.md)       |
+| Practising MARKDOWN   | [Link](Summary.md)        |
+| Mastring GIT   | [Link](readMonday.md)|
+| Practising HTML| [Link](read3a.md)|
 
