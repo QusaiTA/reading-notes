@@ -15,4 +15,5 @@ here som topic's i'll talk about ..
 | Practising MARKDOWN   | [Link](Summary.md)        |
 | Mastring GIT   | [Link](readMonday.md)|
 | Practising HTML| [Link](read3a.md)|
+| Practising Css | [Link](read3b.md)|
 
