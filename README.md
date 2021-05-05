@@ -16,4 +16,5 @@ here som topic's i'll talk about ..
 | Mastring GIT   | [Link](readMonday.md)|
 | Practising HTML| [Link](read3a.md)|
 | Practising Css | [Link](read3b.md)|
+| Practising JS  | [Link](read4.md) |
 
