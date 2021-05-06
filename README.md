@@ -19,3 +19,4 @@ here som topic's i'll talk about ..
 | Practising JS  | [Link](read4.md) |
 | Making Loop's  | [Link](read5.md) |
 
+
