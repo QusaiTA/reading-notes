@@ -18,4 +18,6 @@ here som topic's i'll talk about ..
 | Practising Css | [Link](read3b.md)|
 | Practising JS  | [Link](read4.md) |
 | Making Loop's  | [Link](read5.md) |
+| Making Fuctions Loop's  | [Link](read6.md) |
+
 
