@@ -26,10 +26,10 @@ here som topic's i'll talk about ..
 
 
 
-| Topics      | Links |
+| 201 Topics      | Links |
 | ----------- | ----------- |
 | Day 1 (  introduction )      | [Link](201/read1.md)    |
-| Day 2 (      )      |     |
+| Day 2 (   HTML/CSS/JS   )      |[Link](201/read2.md)     |
 | Day 3 (      )      |     |
 | Day 4 (      )      |     |
 | Day 5 (      )      |     |
