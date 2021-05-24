@@ -81,3 +81,5 @@ You can put a second list inside an 'li' element to create a sublist or nested l
 - while : run for as long as the condition in the parentheses is true.
 
 - do while : difference between a whi 1 e loop and a do whi 1e loop is that the statements in the code block come before the condition. This means that those statements are run once whether or not the condition is met.
+
+- thanks
