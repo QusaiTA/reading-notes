@@ -11,7 +11,7 @@ here som topic's i'll talk about ..
 
 | 102 topics      | Links |
 | ----------- | ----------- |
-| Growth Set      | [Link](read2.md)       |
+| Growth Set      | [Link](read2a.md)       |
 | Practising MARKDOWN   | [Link](Summary.md)        |
 | Mastring GIT   | [Link](readMonday.md)|
 | Practising HTML| [Link](read3a.md)|
@@ -30,7 +30,7 @@ here som topic's i'll talk about ..
 | ----------- | ----------- |
 | Day 1 (  introduction )      | [Link](201/read1.md)    |
 | Day 2 (   HTML/CSS/JS   )      |[Link](201/read2.md)     |
-| Day 3 (      )      |     |
+| Day 3 (    read 3  )      | [Link](read3.md)     |
 | Day 4 (      )      |     |
 | Day 5 (      )      |     |
 | Day 6 (      )      |     |
