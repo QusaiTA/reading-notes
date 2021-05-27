@@ -33,7 +33,7 @@ here som topic's i'll talk about ..
 | Day 3 (    read 3  )      | [Link](201/read3.md)     |
 | Day 4 ( read 4     )      |  [Link](201/read4.md)   |
 | Day 5 (   read 5  )      |  [Link](201/read5.md)     |
-| Day 6 (      )      |     |
+| Day 6 (  read 6    )      | [Link](201/read6.md)    |
 | Day 7 (      )      |     |
 | Day 8 (      )      |     |
 | Day 9 (      )      |     |
