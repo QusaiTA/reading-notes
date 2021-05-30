@@ -11,14 +11,14 @@ here som topic's i'll talk about ..
 
 | 102 topics      | Links |
 | ----------- | ----------- |
-| Growth Set      | [Link](read2a.md)       |
-| Practising MARKDOWN   | [Link](Summary.md)        |
-| Mastring GIT   | [Link](readMonday.md)|
-| Practising HTML| [Link](read3a.md)|
-| Practising Css | [Link](read3b.md)|
-| Practising JS  | [Link](read4.md) |
-| Making Loop's  | [Link](read5.md) |
-| Making Fuctions Loop's  | [Link](read6.md) |
+| Growth Set      | [Link](102/read2a.md)       |
+| Practising MARKDOWN   | [Link](102/Summary.md)        |
+| Mastring GIT   | [Link](102/readMonday.md)|
+| Practising HTML| [Link](102/read3a.md)|
+| Practising Css | [Link](102/read3b.md)|
+| Practising JS  | [Link](102/read4.md) |
+| Making Loop's  | [Link](102/read5.md) |
+| Making Fuctions Loop's  | [Link](102/read6.md) |
 
 
 
