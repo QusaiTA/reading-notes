@@ -36,7 +36,7 @@ here som topic's i'll talk about ..
 | Day 6 (  read 6    )      | [Link](201/read6.md)    |
 | Day 7 (  read 7    )      | [Link](201/read7.md)    |
 | Day 8 (  read 8 )      | [Link](201/read8.md)     |
-| Day 9 (      )      |     |
+| Day 9 (  read 9    )      | [Link](201/read9.md)    |
 | Day 10 (      )      |     |
 | Day 11 (      )      |     |
 | Day 12 (      )      |     |
