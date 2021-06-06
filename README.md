@@ -39,7 +39,7 @@ here som topic's i'll talk about ..
 | Day 9 (  read 9    )      | [Link](201/read9.md)    |
 | Day 10 ( read 10     )      | [Link](201/read10.md)    |
 | Day 11 ( read 11   )      | [Link](201/read11.md)    |
-| Day 12 (      )      |     |
+| Day 12 ( read 12     )      |[Link](201/read12.md)     |
 | Day 13 (      )      |     |
 | Day 14 (      )      |     |
 | Day 15 (      )      |     |
