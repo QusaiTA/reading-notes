@@ -40,7 +40,7 @@ here som topic's i'll talk about ..
 | Day 10 ( read 10     )      | [Link](201/read10.md)    |
 | Day 11 ( read 11   )      | [Link](201/read11.md)    |
 | Day 12 ( read 12     )      |[Link](201/read12.md)     |
-| Day 13 (      )      |     |
+| Day 13 ( read 13     )      |[Link](201/read13.md)     |
 | Day 14 (      )      |     |
 | Day 15 (      )      |     |
 
