@@ -41,8 +41,8 @@ here som topic's i'll talk about ..
 | Day 11 ( read 11   )      | [Link](201/read11.md)    |
 | Day 12 ( read 12     )      |[Link](201/read12.md)     |
 | Day 13 ( read 13     )      |[Link](201/read13.md)     |
-| Day 14 (      )      |     |
-| Day 15 (      )      |     |
+| Day 14 ( read 14a     )      |[Link](201/read14a.md)     |
+| Day 15 ( read 14b     )      |[Link](201/read14b.md)     |
 
 
 
