@@ -9,8 +9,8 @@ i am so excited to learning  coding and web design*
 
 here som topic's i'll talk about ..
 
-| 102 topics      | Links |
-| ----------- | ----------- |
+| Code 102 -Intro to Software Development      | Links |
+| -------------------------------------------- | ----- |
 | Growth Set      | [Link](102/read2a.md)       |
 | Practising MARKDOWN   | [Link](102/Summary.md)        |
 | Mastring GIT   | [Link](102/readMonday.md)|
@@ -26,8 +26,8 @@ here som topic's i'll talk about ..
 
 
 
-| 201 Topics      | Links |
-| ----------- | ----------- |
+| Code 201 - Foundations of Software Development      | Links |
+| --------------------------------------------------- | ----- |
 | Day 1 (  introduction )      | [Link](201/read1.md)    |
 | Day 2 (   HTML/CSS/JS   )      |[Link](201/read2.md)     |
 | Day 3 (    read 3  )      | [Link](201/read3.md)     |
@@ -46,3 +46,9 @@ here som topic's i'll talk about ..
 
 
 
+| Code 301 - Intermediate Software Development      | Links       |
+| ------------------------------------------------- | ----------- |
+
+
+| Code 401 - advance Software Development      | Links       |
+| -------------------------------------------- | ----------- |
