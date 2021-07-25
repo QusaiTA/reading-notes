@@ -1,6 +1,6 @@
 # State and Props
 
-## Component Lifecycle Events
+## React Lifecycle Events
 
     - defined components as classes or functions
     - methods with the ability to be used are called lifecycle events
