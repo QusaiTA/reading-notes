@@ -48,7 +48,7 @@ here som topic's i'll talk about ..
 
 | Code 301 - Intermediate Software Development      | Links       |
 | ------------------------------------------------- | ----------- |
-|                                                   |             |
+| Day (1)                                           |[Link](301/read1.md)|
 
 
 | Code 401 - advance Software Development      | Links       |
