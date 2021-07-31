@@ -53,6 +53,7 @@ here som topic's i'll talk about ..
 | Day (3)                                           |[Link](301/read3.md)|
 | Day (4)                                           |[Link](301/read4.md)|
 | Day (5)                                           |[Link](301/read5.md)|
+| Day (6)                                           |[Link](301/read6.md)|
 
 
 | Code 401 - advance Software Development      | Links       |
