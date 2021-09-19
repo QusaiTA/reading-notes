@@ -64,4 +64,4 @@ here som topic's i'll talk about ..
 
 | Code 401 - advance Software Development      | Links       |
 | -------------------------------------------- | ----------- |
-|                                              |             |
+| Day (1)                                      |[Link](401/read1.md)|
