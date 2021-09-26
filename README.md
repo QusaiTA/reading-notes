@@ -1,5 +1,5 @@
 
-## intro about ME :
+## intro about ME
 
 *my name is Qusai Tashtosh i'm 24 years old
 i graduated from Hashmite university with Software Engineering bachelor degree
@@ -20,12 +20,6 @@ here som topic's i'll talk about ..
 | Making Loop's  | [Link](102/read5.md) |
 | Making Fuctions Loop's  | [Link](102/read6.md) |
 
-
-
-
-
-
-
 | Code 201 - Foundations of Software Development      | Links |
 | --------------------------------------------------- | ----- |
 | Day 1 (  introduction )      | [Link](201/read1.md)    |
@@ -44,8 +38,6 @@ here som topic's i'll talk about ..
 | Day 14 ( read 14a     )      |[Link](201/read14a.md)     |
 | Day 15 ( read 14b     )      |[Link](201/read14b.md)     |
 
-
-
 | Code 301 - Intermediate Software Development      | Links       |
 | ------------------------------------------------- | ----------- |
 | Day (1)                                           |[Link](301/read1.md)|
@@ -61,7 +53,7 @@ here som topic's i'll talk about ..
 | Day (11)                                           |[Link](301/read11.md)|
 | Day (12)                                           |[Link](301/read12.md)|
 
-
 | Code 401 - advance Software Development      | Links       |
 | -------------------------------------------- | ----------- |
 | Day (1)                                      |[Link](401/read1.md)|
+| Day (2)                                      |[Link](401/read2.md)|
