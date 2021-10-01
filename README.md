@@ -9,7 +9,7 @@ i am so excited to learning  coding and web design*
 
 here som topic's i'll talk about ..
 
-| Code 102 -Intro to Software Development      | Links |
+| Reading Notes      | Links |
 | -------------------------------------------- | ----- |
 | Growth Set      | [Link](102/read2a.md)       |
 | Practising MARKDOWN   | [Link](102/Summary.md)        |
