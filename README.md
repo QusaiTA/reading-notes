@@ -62,5 +62,6 @@ here som topic's i'll talk about ..
 | Day (5)                                      |[Link](401/read5.md)|
 | Day (6)                                      |[Link](401/read6.md)|
 | Day (7)                                      |[Link](401/read7.md)|
+| Day (8)                                      |[Link](401/read8.md)|
 
 
