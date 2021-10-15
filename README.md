@@ -68,6 +68,8 @@ here som topic's i'll talk about ..
 | Day (11)                                      |[Link](401/read11.md)|
 | Day (12)                                      |[Link](401/read12.md)|
 | Day (13)                                      |[Link](401/read13.md)|
+| Day (14)                                      |[Link](401/read14.md)|
+
 
 
 
