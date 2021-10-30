@@ -71,6 +71,8 @@ here som topic's i'll talk about ..
 | Day (14)                                      |[Link](401/read14.md)|
 | Day (18)                                      |[Link](401/read18.md)|
 | Day (19)                                      |[Link](401/read19.md)|
+| Day (20)                                      |[Link](401/read26.md)|
+
 
 
 
