@@ -75,6 +75,8 @@ here som topic's i'll talk about ..
 | Day (21)                                      |[Link](401/read27.md)|
 | Day (22)                                      |[Link](401/read28.md)|
 | Day (23)                                      |[Link](401/read29.md)|
+| Day (24)                                      |[Link](401/read30.md)|
+
 
 
 
