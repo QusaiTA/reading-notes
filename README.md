@@ -84,7 +84,7 @@ here som topic's i'll talk about ..
 | Day (30)                                      |[Link](401/read36.md)|
 | Day (31)                                      |[Link](401/read37.md)|
 | Day (32)                                      |[Link](401/read38.md)|
-| Day (33)                                      |[Link](401/read39.md)|
+| Day (33)                                      |[Link](401/read41.md)|
 
 
 
